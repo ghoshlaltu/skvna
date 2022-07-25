@@ -27,7 +27,7 @@ import Card from 'react-bootstrap/Card';
 
 import { MDBFooter } from 'mdb-react-ui-kit';
 
-//loading app js
+//loading app js and push
 function App() {
   return (
     <>
