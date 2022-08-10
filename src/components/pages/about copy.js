@@ -19,7 +19,7 @@ import Card from 'react-bootstrap/Card';
 import LoadingSpinner from './../../components/LoadingSpinner';
 
 import axios from 'axios';
-
+//change
 
 function About() {
     var sectionStyle = {
